@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\bin\Debug\net8.0\ThwLowestNum.exe
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\bin\Debug\net8.0\ThwLowestNum.deps.json
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\bin\Debug\net8.0\ThwLowestNum.runtimeconfig.json
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\bin\Debug\net8.0\ThwLowestNum.dll
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\bin\Debug\net8.0\ThwLowestNum.pdb
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\obj\Debug\net8.0\ThwLowestNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\obj\Debug\net8.0\ThwLowestNum.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\obj\Debug\net8.0\ThwLowestNum.AssemblyInfo.cs
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\obj\Debug\net8.0\ThwLowestNum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\obj\Debug\net8.0\ThwLowestNum.dll
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\obj\Debug\net8.0\refint\ThwLowestNum.dll
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\obj\Debug\net8.0\ThwLowestNum.pdb
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\obj\Debug\net8.0\ThwLowestNum.genruntimeconfig.cache
+C:\Users\user\source\repos\one\ThwLowestNum\ThwLowestNum\obj\Debug\net8.0\ref\ThwLowestNum.dll
